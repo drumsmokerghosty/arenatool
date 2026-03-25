@@ -50,3 +50,4 @@ A high-performance React dashboard designed for tracking market prices, calculat
    ```bash
    git clone [https://github.com/drumsmokerghosty/arenatool.git](https://github.com/drumsmokerghosty/arenatool.git)
    cd arenatool
+   npm run dev
