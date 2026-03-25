@@ -1,0 +1,19 @@
+:root {
+    overflow: hidden;
+
+    --bg-main: #0f172a;
+    --bg-panel: #111827;
+    --bg-header: #020617;
+
+    --accent: #22c55e;
+    --accent-soft: rgba(34, 197, 94, 0.2);
+
+    --text-main: #e5e7eb;
+    --text-muted: #9ca3af;
+
+    --border: rgba(255, 255, 255, 0.05);
+}
+
+body {
+    margin: 0;
+}

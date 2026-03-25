@@ -1,0 +1,25 @@
+:root {
+    --accent: #22c55e;
+    --accent-soft: rgba(34, 197, 94, 0.2);
+    --text-main: #e0e0e0;
+    --text-muted: #a0a0a0;
+    --bg-header: #111827;
+    --bg-panel: #0f172a;
+    --border: #1f2937;
+}
+
+body {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    background: #3f6381;
+    color: var(--text-main);
+}
+
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 16px;
+    box-sizing: border-box;
+}
