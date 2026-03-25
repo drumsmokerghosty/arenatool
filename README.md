@@ -1,6 +1,6 @@
 # 🎯 Ammo Tool | Market Tracker & Profit Calculator
 
-A high-performance React dashboard designed for tracking market prices, calculating flip profits, and monitoring "drop" windows for high-tier items. This tool uses local persistence to keep your data safe without needing a backend.
+A high-performance React dashboard designed for tracking market prices, calculating flip profits, and monitoring "drop" windows for ammo. This tool uses local persistence to keep your data safe without needing a backend.
 
 ---
 
